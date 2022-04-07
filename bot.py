@@ -4,7 +4,7 @@ import requests
 import datetime
 
 
-access_token = ''
+access_token = '' # токен для бота(получить в BotFather
 bot = telebot.TeleBot(access_token)
 
 
