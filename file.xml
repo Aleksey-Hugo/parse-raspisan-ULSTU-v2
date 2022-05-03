@@ -1,0 +1,25 @@
+{
+[00]; {name:
+       func:
+       menu:
+}
+{
+[00]; {name:
+       func:
+       menu: 
+}
+'final_func': create_requiest,
+'fields': [name:
+       text:
+       check:
+       list:
+{
+[00]; {name:
+       func:
+       menu: 
+}{
+[00]; {name:
+       func:
+       menu:
+}
+'name' : 'group'',
